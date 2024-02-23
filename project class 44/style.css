@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch+Pop&display=swap');
+button:hover{
+   background-color: blue;
+   color:White; 
+}
+
+.button4:active{
+    color: red;
+    background-color: black;
+
+}
+/*
+ul li{
+    color: white;
+    background-color: red;
+}
+ul li:first-child{
+    color:black;
+    background-color: yellow;
+}
+ul li:last-child{
+    background-color: brown;
+}*/
+ul li:nth-child(2n){
+    background-color: burlywood;
+}
